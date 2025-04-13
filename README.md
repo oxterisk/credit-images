@@ -2,7 +2,7 @@ Version: 0.9
 
 Give credit to the authors of the images you are usign in an elegant way.
 
-![Preview image](img/image-credits.gif)
+![Preview image](image-credits.gif)
 
 # Usage
 
