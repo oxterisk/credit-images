@@ -2,11 +2,7 @@ Version: 0.9
 
 Give credit to the authors of the images you are usign in an elegant way.
 
-![Preview image](https://www.oxterisk.com/wp-content/uploads/2022/07/image-credits.gif)
-
-[Demo and examples](https://resources.oxterisk.com/credit-images/)
-
-[Support my projects](https://www.oxterisk.com)
+![Preview image](img/image-credits.gif)
 
 # Usage
 
@@ -37,7 +33,7 @@ Images must be contained within a container (div, section, etc), figure or pictu
 Data attribute | Description
 --- | ---
 data-credits | Owner attribution
-data-credits-pos | Position of the attribution.<br>top (default), bottom)
+data-credits-pos | Position of the attribution.<br>top (default), bottom
 data-credits-margin | Margin from the left and top or bottom depending of the position
 data-credits-bg | Background color
 data-credits-color | Text color (does not apply to links)
